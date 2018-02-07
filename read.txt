@@ -1,0 +1,1 @@
+这是在linux下安装git 使用thinkphp5的项目
